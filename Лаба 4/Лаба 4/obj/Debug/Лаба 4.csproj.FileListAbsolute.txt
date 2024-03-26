@@ -1,0 +1,15 @@
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\bin\Debug\Лаба 4.exe.config
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\bin\Debug\Лаба 4.exe
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\bin\Debug\Лаба 4.pdb
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\Лаба 4.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\MainWindow.g.cs
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\App.g.cs
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\Лаба 4_MarkupCompile.cache
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\Лаба 4_MarkupCompile.lref
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\MainWindow.baml
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\Лаба 4.g.resources
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\Лаба_4.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\Лаба 4.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\Лаба 4.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\Лаба 4.exe
+C:\Users\Михаил\source\repos\Лаба 4\Лаба 4\obj\Debug\Лаба 4.pdb
